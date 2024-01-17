@@ -1,0 +1,58 @@
+D:\C# windows\Self Project\customer club\customer club\bin\Debug\customer club.exe.config
+D:\C# windows\Self Project\customer club\customer club\bin\Debug\customer club.exe
+D:\C# windows\Self Project\customer club\customer club\bin\Debug\customer club.pdb
+D:\C# windows\Self Project\customer club\customer club\obj\Debug\customer club.csprojAssemblyReference.cache
+D:\C# windows\Self Project\customer club\customer club\obj\Debug\customer_club.Form1.resources
+D:\C# windows\Self Project\customer club\customer club\obj\Debug\customer_club.Properties.Resources.resources
+D:\C# windows\Self Project\customer club\customer club\obj\Debug\customer club.csproj.GenerateResource.cache
+D:\C# windows\Self Project\customer club\customer club\obj\Debug\customer club.csproj.CoreCompileInputs.cache
+D:\C# windows\Self Project\customer club\customer club\obj\Debug\customer club.exe
+D:\C# windows\Self Project\customer club\customer club\obj\Debug\customer club.pdb
+D:\C# windows\Self Project\customer club\customer club\obj\Debug\customer_club.UserControl1.resources
+D:\C# windows\Self Project\customer club\customer club\obj\Debug\customer_club.HomeUserControl.resources
+D:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.Form1.resources
+D:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.Properties.Resources.resources
+D:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer club.csproj.GenerateResource.cache
+D:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer club.csproj.CoreCompileInputs.cache
+D:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.PizzaUserControl.resources
+D:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.CheesburgerUserControl.resources
+D:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.DrinksUserControl.resources
+D:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.SandwichUserControl.resources
+D:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.UserControlPizza.PageOnePizzaUserControl.resources
+D:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.UserControlPizza.PageTwoPizzaUserControl.resources
+D:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.UserControlHamburger.PageOneHamburgerUserControl.resources
+D:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.UserControlHamburger.PageTwoHamburgerUserControl.resources
+D:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.UserControlSandwich.PageOneSandwichUserControl.resources
+D:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.UserControlSandwich.PageTwoSandwichUserControl.resources
+D:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.UserControlDrink.PageOneDrinksUserControl.resources
+D:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.UserControlSubscription.PageOneSubscriptionUserControl.resources
+D:\C# windows\Self Project\Resturaunt club\customer club\bin\Debug\FAST FOOD.exe.config
+D:\C# windows\Self Project\Resturaunt club\customer club\bin\Debug\FAST FOOD.exe
+D:\C# windows\Self Project\Resturaunt club\customer club\bin\Debug\FAST FOOD.pdb
+D:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\FAST FOOD.exe
+D:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\FAST FOOD.pdb
+D:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.UserControlDelivery.PageOneDeliveryUserControl.resources
+D:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer club.csproj.AssemblyReference.cache
+F:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer club.csproj.AssemblyReference.cache
+F:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.Form1.resources
+F:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.Properties.Resources.resources
+F:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.UserControlDelivery.PageOneDeliveryUserControl.resources
+F:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.UserControlDrink.PageOneDrinksUserControl.resources
+F:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.UserControlHamburger.PageOneHamburgerUserControl.resources
+F:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.UserControlHamburger.PageTwoHamburgerUserControl.resources
+F:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.UserControlPizza.PageOnePizzaUserControl.resources
+F:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.UserControlPizza.PageTwoPizzaUserControl.resources
+F:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.UserControlSandwich.PageTwoSandwichUserControl.resources
+F:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.UserControlSandwich.PageOneSandwichUserControl.resources
+F:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.SandwichUserControl.resources
+F:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.PizzaUserControl.resources
+F:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.CheesburgerUserControl.resources
+F:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.DrinksUserControl.resources
+F:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer_club.UserControlSubscription.PageOneSubscriptionUserControl.resources
+F:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer club.csproj.GenerateResource.cache
+F:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\customer club.csproj.CoreCompileInputs.cache
+F:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\FAST FOOD.exe
+F:\C# windows\Self Project\Resturaunt club\customer club\obj\Debug\FAST FOOD.pdb
+F:\C# windows\Self Project\Resturaunt club\customer club\bin\Debug\FAST FOOD.exe.config
+F:\C# windows\Self Project\Resturaunt club\customer club\bin\Debug\FAST FOOD.exe
+F:\C# windows\Self Project\Resturaunt club\customer club\bin\Debug\FAST FOOD.pdb
