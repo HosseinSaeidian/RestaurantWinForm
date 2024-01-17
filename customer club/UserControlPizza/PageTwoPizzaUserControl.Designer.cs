@@ -65,27 +65,27 @@ namespace customer_club.UserControlPizza
             // pictureBox3
             // 
             this.pictureBox3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.pictureBox3.Location = new System.Drawing.Point(723, 18);
+            this.pictureBox3.Location = new System.Drawing.Point(678, 13);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(335, 578);
+            this.pictureBox3.Size = new System.Drawing.Size(315, 565);
             this.pictureBox3.TabIndex = 9;
             this.pictureBox3.TabStop = false;
             // 
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.pictureBox1.Location = new System.Drawing.Point(370, 18);
+            this.pictureBox1.Location = new System.Drawing.Point(346, 13);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(335, 578);
+            this.pictureBox1.Size = new System.Drawing.Size(315, 565);
             this.pictureBox1.TabIndex = 8;
             this.pictureBox1.TabStop = false;
             // 
             // pictureBox2
             // 
             this.pictureBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.pictureBox2.Location = new System.Drawing.Point(14, 18);
+            this.pictureBox2.Location = new System.Drawing.Point(14, 13);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(335, 578);
+            this.pictureBox2.Size = new System.Drawing.Size(315, 565);
             this.pictureBox2.TabIndex = 7;
             this.pictureBox2.TabStop = false;
             // 
@@ -95,7 +95,7 @@ namespace customer_club.UserControlPizza
             this.LaterVegetablesButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.LaterVegetablesButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
             this.LaterVegetablesButton.ForeColor = System.Drawing.Color.White;
-            this.LaterVegetablesButton.Location = new System.Drawing.Point(70, 528);
+            this.LaterVegetablesButton.Location = new System.Drawing.Point(70, 512);
             this.LaterVegetablesButton.Name = "LaterVegetablesButton";
             this.LaterVegetablesButton.Size = new System.Drawing.Size(202, 56);
             this.LaterVegetablesButton.TabIndex = 25;
@@ -108,7 +108,7 @@ namespace customer_club.UserControlPizza
             this.NowVegetablesButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.NowVegetablesButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
             this.NowVegetablesButton.ForeColor = System.Drawing.Color.White;
-            this.NowVegetablesButton.Location = new System.Drawing.Point(70, 466);
+            this.NowVegetablesButton.Location = new System.Drawing.Point(70, 450);
             this.NowVegetablesButton.Name = "NowVegetablesButton";
             this.NowVegetablesButton.Size = new System.Drawing.Size(202, 56);
             this.NowVegetablesButton.TabIndex = 24;
@@ -119,11 +119,11 @@ namespace customer_club.UserControlPizza
             // 
             this.label6.AutoSize = true;
             this.label6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.label6.Font = new System.Drawing.Font("Cooper Black", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.Black;
-            this.label6.Location = new System.Drawing.Point(67, 410);
+            this.label6.Location = new System.Drawing.Point(64, 389);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(122, 38);
+            this.label6.Size = new System.Drawing.Size(110, 38);
             this.label6.TabIndex = 23;
             this.label6.Text = "Price :";
             // 
@@ -131,11 +131,11 @@ namespace customer_club.UserControlPizza
             // 
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.label3.Font = new System.Drawing.Font("Cooper Black", 28.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 28.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(173)))), ((int)(((byte)(0)))));
-            this.label3.Location = new System.Drawing.Point(188, 399);
+            this.label3.Location = new System.Drawing.Point(189, 376);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(111, 55);
+            this.label3.Size = new System.Drawing.Size(101, 54);
             this.label3.TabIndex = 22;
             this.label3.Text = "$14";
             // 
@@ -145,18 +145,18 @@ namespace customer_club.UserControlPizza
             this.label5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.label5.Font = new System.Drawing.Font("Garamond", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.Black;
-            this.label5.Location = new System.Drawing.Point(25, 314);
+            this.label5.Location = new System.Drawing.Point(49, 289);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(246, 81);
+            this.label5.Size = new System.Drawing.Size(239, 78);
             this.label5.TabIndex = 21;
             this.label5.Text = " Vegetable pizza\r\n with the best vegetables \r\n and wild mushrooms";
             // 
             // pictureBox4
             // 
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(30, 96);
+            this.pictureBox4.Location = new System.Drawing.Point(29, 91);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(287, 208);
+            this.pictureBox4.Size = new System.Drawing.Size(284, 177);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox4.TabIndex = 20;
             this.pictureBox4.TabStop = false;
@@ -165,11 +165,11 @@ namespace customer_club.UserControlPizza
             // 
             this.label4.AutoSize = true;
             this.label4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.label4.Font = new System.Drawing.Font("Cooper Black", 28.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 28.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.Black;
-            this.label4.Location = new System.Drawing.Point(31, 27);
+            this.label4.Location = new System.Drawing.Point(31, 22);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(286, 55);
+            this.label4.Size = new System.Drawing.Size(257, 54);
             this.label4.TabIndex = 19;
             this.label4.Text = "Vegetables";
             // 
@@ -179,7 +179,7 @@ namespace customer_club.UserControlPizza
             this.LaterItalianButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.LaterItalianButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
             this.LaterItalianButton.ForeColor = System.Drawing.Color.White;
-            this.LaterItalianButton.Location = new System.Drawing.Point(433, 530);
+            this.LaterItalianButton.Location = new System.Drawing.Point(409, 514);
             this.LaterItalianButton.Name = "LaterItalianButton";
             this.LaterItalianButton.Size = new System.Drawing.Size(202, 56);
             this.LaterItalianButton.TabIndex = 32;
@@ -192,7 +192,7 @@ namespace customer_club.UserControlPizza
             this.NowItalianButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.NowItalianButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
             this.NowItalianButton.ForeColor = System.Drawing.Color.White;
-            this.NowItalianButton.Location = new System.Drawing.Point(433, 468);
+            this.NowItalianButton.Location = new System.Drawing.Point(409, 452);
             this.NowItalianButton.Name = "NowItalianButton";
             this.NowItalianButton.Size = new System.Drawing.Size(202, 56);
             this.NowItalianButton.TabIndex = 31;
@@ -203,11 +203,11 @@ namespace customer_club.UserControlPizza
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.label1.Font = new System.Drawing.Font("Cooper Black", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Black;
-            this.label1.Location = new System.Drawing.Point(426, 413);
+            this.label1.Location = new System.Drawing.Point(403, 390);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(122, 38);
+            this.label1.Size = new System.Drawing.Size(110, 38);
             this.label1.TabIndex = 30;
             this.label1.Text = "Price :";
             // 
@@ -215,11 +215,11 @@ namespace customer_club.UserControlPizza
             // 
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.label2.Font = new System.Drawing.Font("Cooper Black", 28.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 28.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(173)))), ((int)(((byte)(0)))));
-            this.label2.Location = new System.Drawing.Point(544, 400);
+            this.label2.Location = new System.Drawing.Point(521, 377);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(111, 55);
+            this.label2.Size = new System.Drawing.Size(101, 54);
             this.label2.TabIndex = 29;
             this.label2.Text = "$18";
             // 
@@ -229,18 +229,18 @@ namespace customer_club.UserControlPizza
             this.label7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.label7.Font = new System.Drawing.Font("Garamond", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.Black;
-            this.label7.Location = new System.Drawing.Point(400, 315);
+            this.label7.Location = new System.Drawing.Point(400, 289);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(224, 81);
+            this.label7.Size = new System.Drawing.Size(211, 78);
             this.label7.TabIndex = 28;
             this.label7.Text = "Italian pizza with\r\n food imported from \r\nItaly with Italian sauce";
             // 
             // pictureBox5
             // 
             this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
-            this.pictureBox5.Location = new System.Drawing.Point(393, 98);
+            this.pictureBox5.Location = new System.Drawing.Point(365, 93);
             this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(287, 208);
+            this.pictureBox5.Size = new System.Drawing.Size(284, 177);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox5.TabIndex = 27;
             this.pictureBox5.TabStop = false;
@@ -249,20 +249,20 @@ namespace customer_club.UserControlPizza
             // 
             this.label8.AutoSize = true;
             this.label8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.label8.Font = new System.Drawing.Font("Cooper Black", 28.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 28.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.Color.Black;
-            this.label8.Location = new System.Drawing.Point(437, 27);
+            this.label8.Location = new System.Drawing.Point(413, 22);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(187, 55);
+            this.label8.Size = new System.Drawing.Size(147, 54);
             this.label8.TabIndex = 26;
             this.label8.Text = "Italian";
             // 
             // pictureBox6
             // 
             this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
-            this.pictureBox6.Location = new System.Drawing.Point(752, 98);
+            this.pictureBox6.Location = new System.Drawing.Point(698, 93);
             this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(287, 208);
+            this.pictureBox6.Size = new System.Drawing.Size(284, 177);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox6.TabIndex = 34;
             this.pictureBox6.TabStop = false;
@@ -271,11 +271,11 @@ namespace customer_club.UserControlPizza
             // 
             this.label9.AutoSize = true;
             this.label9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.label9.Font = new System.Drawing.Font("Cooper Black", 28.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 28.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.Color.Black;
-            this.label9.Location = new System.Drawing.Point(809, 27);
+            this.label9.Location = new System.Drawing.Point(764, 22);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(140, 55);
+            this.label9.Size = new System.Drawing.Size(127, 54);
             this.label9.TabIndex = 33;
             this.label9.Text = "Meat";
             // 
@@ -285,9 +285,9 @@ namespace customer_club.UserControlPizza
             this.label10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.label10.Font = new System.Drawing.Font("Garamond", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.ForeColor = System.Drawing.Color.Black;
-            this.label10.Location = new System.Drawing.Point(753, 314);
+            this.label10.Location = new System.Drawing.Point(718, 289);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(230, 81);
+            this.label10.Size = new System.Drawing.Size(220, 78);
             this.label10.TabIndex = 35;
             this.label10.Text = " Meat pizza with\r\n freshly cooked meat\r\n and special meat sauce";
             // 
@@ -297,7 +297,7 @@ namespace customer_club.UserControlPizza
             this.LaterMeatButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.LaterMeatButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
             this.LaterMeatButton.ForeColor = System.Drawing.Color.White;
-            this.LaterMeatButton.Location = new System.Drawing.Point(781, 530);
+            this.LaterMeatButton.Location = new System.Drawing.Point(736, 514);
             this.LaterMeatButton.Name = "LaterMeatButton";
             this.LaterMeatButton.Size = new System.Drawing.Size(202, 56);
             this.LaterMeatButton.TabIndex = 39;
@@ -310,7 +310,7 @@ namespace customer_club.UserControlPizza
             this.NowMeatButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.NowMeatButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
             this.NowMeatButton.ForeColor = System.Drawing.Color.White;
-            this.NowMeatButton.Location = new System.Drawing.Point(781, 468);
+            this.NowMeatButton.Location = new System.Drawing.Point(736, 452);
             this.NowMeatButton.Name = "NowMeatButton";
             this.NowMeatButton.Size = new System.Drawing.Size(202, 56);
             this.NowMeatButton.TabIndex = 38;
@@ -321,11 +321,11 @@ namespace customer_club.UserControlPizza
             // 
             this.label11.AutoSize = true;
             this.label11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.label11.Font = new System.Drawing.Font("Cooper Black", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.ForeColor = System.Drawing.Color.Black;
-            this.label11.Location = new System.Drawing.Point(774, 413);
+            this.label11.Location = new System.Drawing.Point(730, 390);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(122, 38);
+            this.label11.Size = new System.Drawing.Size(110, 38);
             this.label11.TabIndex = 37;
             this.label11.Text = "Price :";
             // 
@@ -333,11 +333,11 @@ namespace customer_club.UserControlPizza
             // 
             this.label12.AutoSize = true;
             this.label12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.label12.Font = new System.Drawing.Font("Cooper Black", 28.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 28.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label12.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(173)))), ((int)(((byte)(0)))));
-            this.label12.Location = new System.Drawing.Point(892, 400);
+            this.label12.Location = new System.Drawing.Point(848, 377);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(111, 55);
+            this.label12.Size = new System.Drawing.Size(101, 54);
             this.label12.TabIndex = 36;
             this.label12.Text = "$20";
             // 
@@ -370,7 +370,7 @@ namespace customer_club.UserControlPizza
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.pictureBox2);
             this.Name = "PageTwoPizzaUserControl";
-            this.Size = new System.Drawing.Size(1077, 616);
+            this.Size = new System.Drawing.Size(1005, 594);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();

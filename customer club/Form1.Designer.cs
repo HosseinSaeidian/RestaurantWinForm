@@ -74,9 +74,9 @@ namespace customer_club
             this.pageOneSandwichUserControl1 = new customer_club.UserControlSandwich.PageOneSandwichUserControl();
             this.pageTwoHamburgerUserControl1 = new customer_club.UserControlHamburger.PageTwoHamburgerUserControl();
             this.pageOneHamburgerUserControl1 = new customer_club.UserControlHamburger.PageOneHamburgerUserControl();
-            this.pageTwoPizzaUserControl1 = new customer_club.UserControlPizza.PageTwoPizzaUserControl();
-            this.pageOnePizzaUserControl1 = new customer_club.UserControlPizza.PageOnePizzaUserControl();
             this.cheesburgerUserControl1 = new customer_club.CheesburgerUserControl();
+            this.pageOnePizzaUserControl1 = new customer_club.UserControlPizza.PageOnePizzaUserControl();
+            this.pageTwoPizzaUserControl1 = new customer_club.UserControlPizza.PageTwoPizzaUserControl();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.DirectPictureButton)).BeginInit();
@@ -129,7 +129,7 @@ namespace customer_club
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(294, 817);
+            this.panel1.Size = new System.Drawing.Size(294, 849);
             this.panel1.TabIndex = 2;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
@@ -391,7 +391,7 @@ namespace customer_club
             this.flowLayoutPanel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(27)))), ((int)(((byte)(53)))));
             this.flowLayoutPanel1.Location = new System.Drawing.Point(294, -53);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(1220, 65);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(1235, 65);
             this.flowLayoutPanel1.TabIndex = 1;
             this.flowLayoutPanel1.Paint += new System.Windows.Forms.PaintEventHandler(this.flowLayoutPanel1_Paint);
             // 
@@ -433,7 +433,7 @@ namespace customer_club
             this.MinimizedPicture.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.MinimizedPicture.Cursor = System.Windows.Forms.Cursors.Hand;
             this.MinimizedPicture.Image = ((System.Drawing.Image)(resources.GetObject("MinimizedPicture.Image")));
-            this.MinimizedPicture.Location = new System.Drawing.Point(1278, 25);
+            this.MinimizedPicture.Location = new System.Drawing.Point(1354, 25);
             this.MinimizedPicture.Name = "MinimizedPicture";
             this.MinimizedPicture.Size = new System.Drawing.Size(55, 58);
             this.MinimizedPicture.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -446,7 +446,7 @@ namespace customer_club
             this.RestoreDownPicture.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.RestoreDownPicture.Cursor = System.Windows.Forms.Cursors.Hand;
             this.RestoreDownPicture.Image = ((System.Drawing.Image)(resources.GetObject("RestoreDownPicture.Image")));
-            this.RestoreDownPicture.Location = new System.Drawing.Point(1339, 27);
+            this.RestoreDownPicture.Location = new System.Drawing.Point(1415, 27);
             this.RestoreDownPicture.Name = "RestoreDownPicture";
             this.RestoreDownPicture.Size = new System.Drawing.Size(45, 54);
             this.RestoreDownPicture.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -510,10 +510,10 @@ namespace customer_club
             // 
             // HintRightPizzaButton
             // 
-            this.HintRightPizzaButton.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.HintRightPizzaButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.HintRightPizzaButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.HintRightPizzaButton.Image = ((System.Drawing.Image)(resources.GetObject("HintRightPizzaButton.Image")));
-            this.HintRightPizzaButton.Location = new System.Drawing.Point(1430, 449);
+            this.HintRightPizzaButton.Location = new System.Drawing.Point(1445, 449);
             this.HintRightPizzaButton.Name = "HintRightPizzaButton";
             this.HintRightPizzaButton.Size = new System.Drawing.Size(79, 83);
             this.HintRightPizzaButton.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -523,9 +523,10 @@ namespace customer_club
             // 
             // HintLeftPizzaButton
             // 
+            this.HintLeftPizzaButton.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.HintLeftPizzaButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.HintLeftPizzaButton.Image = ((System.Drawing.Image)(resources.GetObject("HintLeftPizzaButton.Image")));
-            this.HintLeftPizzaButton.Location = new System.Drawing.Point(300, 473);
+            this.HintLeftPizzaButton.Location = new System.Drawing.Point(315, 474);
             this.HintLeftPizzaButton.Name = "HintLeftPizzaButton";
             this.HintLeftPizzaButton.Size = new System.Drawing.Size(79, 83);
             this.HintLeftPizzaButton.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -535,9 +536,10 @@ namespace customer_club
             // 
             // HintLeftBurgerButton
             // 
+            this.HintLeftBurgerButton.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.HintLeftBurgerButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.HintLeftBurgerButton.Image = ((System.Drawing.Image)(resources.GetObject("HintLeftBurgerButton.Image")));
-            this.HintLeftBurgerButton.Location = new System.Drawing.Point(300, 473);
+            this.HintLeftBurgerButton.Location = new System.Drawing.Point(315, 474);
             this.HintLeftBurgerButton.Name = "HintLeftBurgerButton";
             this.HintLeftBurgerButton.Size = new System.Drawing.Size(79, 83);
             this.HintLeftBurgerButton.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -550,7 +552,7 @@ namespace customer_club
             this.HintRightBurgerButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.HintRightBurgerButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.HintRightBurgerButton.Image = ((System.Drawing.Image)(resources.GetObject("HintRightBurgerButton.Image")));
-            this.HintRightBurgerButton.Location = new System.Drawing.Point(1435, 473);
+            this.HintRightBurgerButton.Location = new System.Drawing.Point(1445, 449);
             this.HintRightBurgerButton.Name = "HintRightBurgerButton";
             this.HintRightBurgerButton.Size = new System.Drawing.Size(79, 83);
             this.HintRightBurgerButton.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -560,9 +562,10 @@ namespace customer_club
             // 
             // HintLeftSandwichButton
             // 
+            this.HintLeftSandwichButton.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.HintLeftSandwichButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.HintLeftSandwichButton.Image = ((System.Drawing.Image)(resources.GetObject("HintLeftSandwichButton.Image")));
-            this.HintLeftSandwichButton.Location = new System.Drawing.Point(300, 473);
+            this.HintLeftSandwichButton.Location = new System.Drawing.Point(315, 474);
             this.HintLeftSandwichButton.Name = "HintLeftSandwichButton";
             this.HintLeftSandwichButton.Size = new System.Drawing.Size(79, 83);
             this.HintLeftSandwichButton.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -572,10 +575,10 @@ namespace customer_club
             // 
             // HintRightSandwichButton
             // 
-            this.HintRightSandwichButton.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.HintRightSandwichButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.HintRightSandwichButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.HintRightSandwichButton.Image = ((System.Drawing.Image)(resources.GetObject("HintRightSandwichButton.Image")));
-            this.HintRightSandwichButton.Location = new System.Drawing.Point(1430, 449);
+            this.HintRightSandwichButton.Location = new System.Drawing.Point(1445, 449);
             this.HintRightSandwichButton.Name = "HintRightSandwichButton";
             this.HintRightSandwichButton.Size = new System.Drawing.Size(79, 83);
             this.HintRightSandwichButton.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -588,7 +591,7 @@ namespace customer_club
             this.CloseAppPicture.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.CloseAppPicture.Cursor = System.Windows.Forms.Cursors.Hand;
             this.CloseAppPicture.Image = ((System.Drawing.Image)(resources.GetObject("CloseAppPicture.Image")));
-            this.CloseAppPicture.Location = new System.Drawing.Point(1390, 25);
+            this.CloseAppPicture.Location = new System.Drawing.Point(1466, 25);
             this.CloseAppPicture.Name = "CloseAppPicture";
             this.CloseAppPicture.Size = new System.Drawing.Size(55, 58);
             this.CloseAppPicture.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -599,90 +602,90 @@ namespace customer_club
             // pageOneSubscriptionUserControl1
             // 
             this.pageOneSubscriptionUserControl1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pageOneSubscriptionUserControl1.Location = new System.Drawing.Point(390, 175);
+            this.pageOneSubscriptionUserControl1.Location = new System.Drawing.Point(397, 751);
             this.pageOneSubscriptionUserControl1.Name = "pageOneSubscriptionUserControl1";
-            this.pageOneSubscriptionUserControl1.Size = new System.Drawing.Size(1034, 538);
+            this.pageOneSubscriptionUserControl1.Size = new System.Drawing.Size(1034, 70);
             this.pageOneSubscriptionUserControl1.TabIndex = 37;
             this.pageOneSubscriptionUserControl1.Load += new System.EventHandler(this.pageOneSubscriptionUserControl1_Load_1);
             // 
             // pageOneDeliveryUserControl1
             // 
             this.pageOneDeliveryUserControl1.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.pageOneDeliveryUserControl1.Location = new System.Drawing.Point(367, 199);
+            this.pageOneDeliveryUserControl1.Location = new System.Drawing.Point(374, 699);
             this.pageOneDeliveryUserControl1.Name = "pageOneDeliveryUserControl1";
-            this.pageOneDeliveryUserControl1.Size = new System.Drawing.Size(952, 590);
+            this.pageOneDeliveryUserControl1.Size = new System.Drawing.Size(952, 90);
             this.pageOneDeliveryUserControl1.TabIndex = 36;
             // 
             // pageOneDrinksUserControl1
             // 
             this.pageOneDrinksUserControl1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pageOneDrinksUserControl1.Location = new System.Drawing.Point(367, 175);
+            this.pageOneDrinksUserControl1.Location = new System.Drawing.Point(374, 679);
             this.pageOneDrinksUserControl1.Name = "pageOneDrinksUserControl1";
-            this.pageOneDrinksUserControl1.Size = new System.Drawing.Size(952, 616);
+            this.pageOneDrinksUserControl1.Size = new System.Drawing.Size(952, 128);
             this.pageOneDrinksUserControl1.TabIndex = 35;
             // 
             // pageTwoSandwichUserControl1
             // 
             this.pageTwoSandwichUserControl1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pageTwoSandwichUserControl1.Location = new System.Drawing.Point(367, 175);
+            this.pageTwoSandwichUserControl1.Location = new System.Drawing.Point(400, 645);
             this.pageTwoSandwichUserControl1.Name = "pageTwoSandwichUserControl1";
-            this.pageTwoSandwichUserControl1.Size = new System.Drawing.Size(952, 616);
+            this.pageTwoSandwichUserControl1.Size = new System.Drawing.Size(918, 162);
             this.pageTwoSandwichUserControl1.TabIndex = 34;
             // 
             // pageOneSandwichUserControl1
             // 
             this.pageOneSandwichUserControl1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pageOneSandwichUserControl1.Location = new System.Drawing.Point(367, 175);
+            this.pageOneSandwichUserControl1.Location = new System.Drawing.Point(400, 603);
             this.pageOneSandwichUserControl1.Name = "pageOneSandwichUserControl1";
-            this.pageOneSandwichUserControl1.Size = new System.Drawing.Size(952, 616);
+            this.pageOneSandwichUserControl1.Size = new System.Drawing.Size(918, 204);
             this.pageOneSandwichUserControl1.TabIndex = 33;
             // 
             // pageTwoHamburgerUserControl1
             // 
             this.pageTwoHamburgerUserControl1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pageTwoHamburgerUserControl1.Location = new System.Drawing.Point(367, 175);
+            this.pageTwoHamburgerUserControl1.Location = new System.Drawing.Point(400, 561);
             this.pageTwoHamburgerUserControl1.Name = "pageTwoHamburgerUserControl1";
-            this.pageTwoHamburgerUserControl1.Size = new System.Drawing.Size(1057, 616);
+            this.pageTwoHamburgerUserControl1.Size = new System.Drawing.Size(1023, 246);
             this.pageTwoHamburgerUserControl1.TabIndex = 32;
             // 
             // pageOneHamburgerUserControl1
             // 
             this.pageOneHamburgerUserControl1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
-            this.pageOneHamburgerUserControl1.Location = new System.Drawing.Point(367, 199);
+            this.pageOneHamburgerUserControl1.Location = new System.Drawing.Point(400, 496);
             this.pageOneHamburgerUserControl1.Name = "pageOneHamburgerUserControl1";
-            this.pageOneHamburgerUserControl1.Size = new System.Drawing.Size(1057, 569);
+            this.pageOneHamburgerUserControl1.Size = new System.Drawing.Size(1023, 304);
             this.pageOneHamburgerUserControl1.TabIndex = 31;
-            // 
-            // pageTwoPizzaUserControl1
-            // 
-            this.pageTwoPizzaUserControl1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pageTwoPizzaUserControl1.Location = new System.Drawing.Point(367, 202);
-            this.pageTwoPizzaUserControl1.Name = "pageTwoPizzaUserControl1";
-            this.pageTwoPizzaUserControl1.Size = new System.Drawing.Size(1057, 589);
-            this.pageTwoPizzaUserControl1.TabIndex = 30;
-            // 
-            // pageOnePizzaUserControl1
-            // 
-            this.pageOnePizzaUserControl1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pageOnePizzaUserControl1.Location = new System.Drawing.Point(367, 175);
-            this.pageOnePizzaUserControl1.Name = "pageOnePizzaUserControl1";
-            this.pageOnePizzaUserControl1.Size = new System.Drawing.Size(1057, 616);
-            this.pageOnePizzaUserControl1.TabIndex = 29;
             // 
             // cheesburgerUserControl1
             // 
-            this.cheesburgerUserControl1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
-            this.cheesburgerUserControl1.Location = new System.Drawing.Point(367, 199);
+            this.cheesburgerUserControl1.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.cheesburgerUserControl1.Location = new System.Drawing.Point(412, 199);
             this.cheesburgerUserControl1.Name = "cheesburgerUserControl1";
-            this.cheesburgerUserControl1.Size = new System.Drawing.Size(1057, 598);
-            this.cheesburgerUserControl1.TabIndex = 28;
+            this.cheesburgerUserControl1.Size = new System.Drawing.Size(1005, 594);
+            this.cheesburgerUserControl1.TabIndex = 39;
+            // 
+            // pageOnePizzaUserControl1
+            // 
+            this.pageOnePizzaUserControl1.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.pageOnePizzaUserControl1.Location = new System.Drawing.Point(418, 199);
+            this.pageOnePizzaUserControl1.Name = "pageOnePizzaUserControl1";
+            this.pageOnePizzaUserControl1.Size = new System.Drawing.Size(1005, 606);
+            this.pageOnePizzaUserControl1.TabIndex = 41;
+            // 
+            // pageTwoPizzaUserControl1
+            // 
+            this.pageTwoPizzaUserControl1.Location = new System.Drawing.Point(418, 199);
+            this.pageTwoPizzaUserControl1.Name = "pageTwoPizzaUserControl1";
+            this.pageTwoPizzaUserControl1.Size = new System.Drawing.Size(1005, 594);
+            this.pageTwoPizzaUserControl1.TabIndex = 43;
             // 
             // Form1
             // 
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoValidate = System.Windows.Forms.AutoValidate.Disable;
             this.BackColor = System.Drawing.SystemColors.InactiveBorder;
-            this.ClientSize = new System.Drawing.Size(1514, 817);
+            this.ClientSize = new System.Drawing.Size(1529, 849);
             this.Controls.Add(this.pageOneSubscriptionUserControl1);
             this.Controls.Add(this.pageOneDeliveryUserControl1);
             this.Controls.Add(this.pageOneDrinksUserControl1);
@@ -690,9 +693,6 @@ namespace customer_club
             this.Controls.Add(this.pageOneSandwichUserControl1);
             this.Controls.Add(this.pageTwoHamburgerUserControl1);
             this.Controls.Add(this.pageOneHamburgerUserControl1);
-            this.Controls.Add(this.pageTwoPizzaUserControl1);
-            this.Controls.Add(this.pageOnePizzaUserControl1);
-            this.Controls.Add(this.cheesburgerUserControl1);
             this.Controls.Add(this.HintRightSandwichButton);
             this.Controls.Add(this.HintLeftSandwichButton);
             this.Controls.Add(this.HintRightBurgerButton);
@@ -710,6 +710,9 @@ namespace customer_club
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.CloseAppPicture);
+            this.Controls.Add(this.pageTwoPizzaUserControl1);
+            this.Controls.Add(this.pageOnePizzaUserControl1);
+            this.Controls.Add(this.cheesburgerUserControl1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
@@ -788,9 +791,6 @@ namespace customer_club
         private System.Windows.Forms.PictureBox HintLeftSandwichButton;
         private System.Windows.Forms.PictureBox HintRightSandwichButton;
         private System.Windows.Forms.PictureBox CloseAppPicture;
-        private CheesburgerUserControl cheesburgerUserControl1;
-        private UserControlPizza.PageOnePizzaUserControl pageOnePizzaUserControl1;
-        private UserControlPizza.PageTwoPizzaUserControl pageTwoPizzaUserControl1;
         private UserControlHamburger.PageOneHamburgerUserControl pageOneHamburgerUserControl1;
         private UserControlHamburger.PageTwoHamburgerUserControl pageTwoHamburgerUserControl1;
         private UserControlSandwich.PageOneSandwichUserControl pageOneSandwichUserControl1;
@@ -798,6 +798,9 @@ namespace customer_club
         private UserControlDrink.PageOneDrinksUserControl pageOneDrinksUserControl1;
         private UserControlDelivery.PageOneDeliveryUserControl pageOneDeliveryUserControl1;
         private UserControlSubscription.PageOneSubscriptionUserControl pageOneSubscriptionUserControl1;
+        private CheesburgerUserControl cheesburgerUserControl1;
+        private UserControlPizza.PageOnePizzaUserControl pageOnePizzaUserControl1;
+        private UserControlPizza.PageTwoPizzaUserControl pageTwoPizzaUserControl1;
     }
 }
 

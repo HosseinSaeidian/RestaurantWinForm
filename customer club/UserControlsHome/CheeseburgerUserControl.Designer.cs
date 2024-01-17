@@ -45,32 +45,32 @@ namespace customer_club
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Cooper Black", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(173)))), ((int)(((byte)(0)))));
-            this.label2.Location = new System.Drawing.Point(36, 94);
+            this.label2.Location = new System.Drawing.Point(57, 107);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(96, 38);
+            this.label2.Size = new System.Drawing.Size(85, 38);
             this.label2.TabIndex = 1;
             this.label2.Text = "Only";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Cooper Black", 91.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 91.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(173)))), ((int)(((byte)(0)))));
-            this.label3.Location = new System.Drawing.Point(13, 132);
+            this.label3.Location = new System.Drawing.Point(89, 145);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(347, 175);
+            this.label3.Size = new System.Drawing.Size(327, 172);
             this.label3.TabIndex = 2;
             this.label3.Text = "$15";
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(514, -46);
+            this.pictureBox1.Location = new System.Drawing.Point(484, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(730, 750);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.Size = new System.Drawing.Size(617, 652);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 4;
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
@@ -78,11 +78,11 @@ namespace customer_club
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Cooper Black", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.Black;
-            this.label4.Location = new System.Drawing.Point(12, 307);
+            this.label4.Location = new System.Drawing.Point(62, 317);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(449, 69);
+            this.label4.Size = new System.Drawing.Size(407, 69);
             this.label4.TabIndex = 5;
             this.label4.Text = "Cheeseburger";
             // 
@@ -91,9 +91,9 @@ namespace customer_club
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Garamond", 22.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.Black;
-            this.label5.Location = new System.Drawing.Point(3, 393);
+            this.label5.Location = new System.Drawing.Point(34, 386);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(487, 43);
+            this.label5.Size = new System.Drawing.Size(472, 42);
             this.label5.TabIndex = 6;
             this.label5.Text = " with potatoes and cheese sauce";
             // 
@@ -103,7 +103,7 @@ namespace customer_club
             this.OrderNowCheesButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.OrderNowCheesButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
             this.OrderNowCheesButton.ForeColor = System.Drawing.Color.White;
-            this.OrderNowCheesButton.Location = new System.Drawing.Point(56, 461);
+            this.OrderNowCheesButton.Location = new System.Drawing.Point(90, 438);
             this.OrderNowCheesButton.Name = "OrderNowCheesButton";
             this.OrderNowCheesButton.Size = new System.Drawing.Size(317, 68);
             this.OrderNowCheesButton.TabIndex = 8;
@@ -116,7 +116,7 @@ namespace customer_club
             this.OrderLaterCheesButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.OrderLaterCheesButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
             this.OrderLaterCheesButton.ForeColor = System.Drawing.Color.White;
-            this.OrderLaterCheesButton.Location = new System.Drawing.Point(56, 535);
+            this.OrderLaterCheesButton.Location = new System.Drawing.Point(90, 512);
             this.OrderLaterCheesButton.Name = "OrderLaterCheesButton";
             this.OrderLaterCheesButton.Size = new System.Drawing.Size(317, 68);
             this.OrderLaterCheesButton.TabIndex = 9;
@@ -138,11 +138,11 @@ namespace customer_club
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Biting My Nails", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(110)))), ((int)(((byte)(45)))), ((int)(((byte)(212)))));
             this.label6.Location = new System.Drawing.Point(4, 21);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(583, 41);
+            this.label6.Size = new System.Drawing.Size(474, 46);
             this.label6.TabIndex = 89;
             this.label6.Text = "This week discount . . . !";
             // 
@@ -160,7 +160,7 @@ namespace customer_club
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Name = "CheesburgerUserControl";
-            this.Size = new System.Drawing.Size(1182, 616);
+            this.Size = new System.Drawing.Size(1005, 594);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

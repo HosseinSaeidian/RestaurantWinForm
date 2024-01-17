@@ -21,5 +21,10 @@ namespace customer_club.UserControlPizza
         {
 
         }
+
+        private void NowSpecialButton_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("hello piza");
+        }
     }
 }

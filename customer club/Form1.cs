@@ -343,7 +343,7 @@ namespace customer_club
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            ToolClass.EnableFalseMethod(pageOneSubscriptionUserControl1.FirstNameSubTextBox , pageOneSubscriptionUserControl1.LastNameSubTextBox);
+            ToolClass.EnableFalseMethod(pageOneSubscriptionUserControl1.FirstNameSubTextBox, pageOneSubscriptionUserControl1.LastNameSubTextBox);
             pageOneSubscriptionUserControl1.PhoneNumberTextbox.Enabled = false;
             pageOneSubscriptionUserControl1.DataGrideSubscription.Visible = false;
             cheesburgerUserControl1.BringToFront();
